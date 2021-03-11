@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\bin\x64\Debug\JABOLKE.exe.config
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\bin\x64\Debug\JABOLKE.exe
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\bin\x64\Debug\JABOLKE.pdb
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\obj\x64\Debug\JABOLKE.Form1.resources
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\obj\x64\Debug\JABOLKE.Properties.Resources.resources
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\obj\x64\Debug\JABOLKE.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\obj\x64\Debug\JABOLKE.exe
+C:\Users\Admin\source\repos\JABOLKE\JABOLKE\JABOLKE\JABOLKE\obj\x64\Debug\JABOLKE.pdb
